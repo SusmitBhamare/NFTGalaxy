@@ -2,16 +2,14 @@ Tech Stack:
 
 Frontend:
 Next.js
-Next-themes
 React
-React-dom
 
 Backend:
 Axios
 Dotenv
 Web3modal
 Ethers
-IPFS-http-client
+IPFS
 
 Smart Contracts:
 @openzeppelin/contracts
