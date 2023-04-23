@@ -27,13 +27,9 @@ TailwindCSS
 Testing:
 Chai
 Eslint
-eslint-config-airbnb
-eslint-plugin-import
-eslint-plugin-jsx-a11y
-eslint-plugin-react
-eslint-plugin-react-hooks
+
 
 DevDependencies:
 hardhat
 eslint
-eslint-config-next
+
