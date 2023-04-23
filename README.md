@@ -1,15 +1,40 @@
-# Basic Sample Hardhat Project
+Tech Stack:
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Frontend:
 
-Try running some of the following tasks:
+Next.js
+Next-themes
+React
+React-dom
+Backend:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Axios
+Dotenv
+Web3modal
+Ethers
+IPFS-http-client
+Smart Contracts:
+
+@openzeppelin/contracts
+@nomiclabs/hardhat-ethers
+@nomiclabs/hardhat-waffle
+Ethereum-waffle
+Styling:
+
+Autoprefixer
+PostCSS
+TailwindCSS
+Testing:
+
+Chai
+Eslint
+eslint-config-airbnb
+eslint-plugin-import
+eslint-plugin-jsx-a11y
+eslint-plugin-react
+eslint-plugin-react-hooks
+DevDependencies:
+
+hardhat
+eslint
+eslint-config-next
