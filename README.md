@@ -1,31 +1,30 @@
 Tech Stack:
 
 Frontend:
-
 Next.js
 Next-themes
 React
 React-dom
-Backend:
 
+Backend:
 Axios
 Dotenv
 Web3modal
 Ethers
 IPFS-http-client
-Smart Contracts:
 
+Smart Contracts:
 @openzeppelin/contracts
 @nomiclabs/hardhat-ethers
 @nomiclabs/hardhat-waffle
 Ethereum-waffle
-Styling:
 
+Styling:
 Autoprefixer
 PostCSS
 TailwindCSS
-Testing:
 
+Testing:
 Chai
 Eslint
 eslint-config-airbnb
@@ -33,8 +32,8 @@ eslint-plugin-import
 eslint-plugin-jsx-a11y
 eslint-plugin-react
 eslint-plugin-react-hooks
-DevDependencies:
 
+DevDependencies:
 hardhat
 eslint
 eslint-config-next
